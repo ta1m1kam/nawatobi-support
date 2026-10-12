@@ -2,7 +2,7 @@
 title: サポート / Support
 ---
 
-# なわとび サポート
+# Nawatob! サポート
 
 AirPods Pro を着けて縄跳びをすると、頭の上下の動きからジャンプの回数を数える iPhone アプリです。
 
@@ -10,7 +10,7 @@ AirPods Pro を着けて縄跳びをすると、頭の上下の動きからジ�
 
 ### 計測を始められません
 
-ヘッドフォンのモーションに対応した AirPods（AirPods Pro、AirPods Max、AirPods（第3世代以降）など）を iPhone につないでください。設定アプリ →「なわとび」で、モーションとフィットネスをオンにしてください。
+ヘッドフォンのモーションに対応した AirPods（AirPods Pro、AirPods Max、AirPods（第3世代以降）など）を iPhone につないでください。設定アプリ →「Nawatob!」で、モーションとフィットネスをオンにしてください。
 
 ### 回数が実際とずれます
 
@@ -18,7 +18,7 @@ AirPods Pro を着けて縄跳びをすると、頭の上下の動きからジ�
 
 ### ヘルスケアに記録されません
 
-アプリの設定で「ワークアウトを保存」をオンにし、ヘルスケアの許可を確認してください（設定アプリ →「ヘルスケア」→「データアクセスとデバイス」→「なわとび」）。
+アプリの設定で「ワークアウトを保存」をオンにし、ヘルスケアの許可を確認してください（設定アプリ →「ヘルスケア」→「データアクセスとデバイス」→「Nawatob!」）。
 
 ### 別の iPhone に記録が出ません
 
@@ -34,15 +34,15 @@ AirPods Pro を着けて縄跳びをすると、頭の上下の動きからジ�
 
 ---
 
-# Nawatobi Support
+# Nawatob! Support
 
-Nawatobi counts your jump rope skips from the head movement measured by your AirPods Pro.
+Nawatob! counts your jump rope skips from the head movement measured by your AirPods Pro.
 
 ## FAQ
 
 ### I can't start a session
 
-Connect AirPods with headphone motion support (such as AirPods Pro, AirPods Max, or AirPods (3rd generation and later)) to your iPhone, and turn on Motion & Fitness for Nawatobi in the Settings app.
+Connect AirPods with headphone motion support (such as AirPods Pro, AirPods Max, or AirPods (3rd generation and later)) to your iPhone, and turn on Motion & Fitness for Nawatob! in the Settings app.
 
 ### The count doesn't match my jumps
 
@@ -50,7 +50,7 @@ Use "Calibrate to My Jumps" in Settings: jump 10 regular skips and 5 double unde
 
 ### Workouts aren't saved to Health
 
-Turn on "Save workouts" in the app's settings and check the Health permissions (Settings → Health → Data Access & Devices → Nawatobi).
+Turn on "Save workouts" in the app's settings and check the Health permissions (Settings → Health → Data Access & Devices → Nawatob!).
 
 ### My records don't appear on another iPhone
 

@@ -3,11 +3,11 @@ title: プライバシーポリシー / Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# なわとび プライバシーポリシー
+# Nawatob! プライバシーポリシー
 
 最終更新日: 2026年10月12日
 
-「なわとび（Nawatobi）」（以下「本アプリ」）は、AirPods Pro の動きから縄跳びの回数を数えるアプリです。本アプリの開発者は、利用者の個人データを収集しません。
+「Nawatob!」（以下「本アプリ」）は、AirPods Pro の動きから縄跳びの回数を数えるアプリです。本アプリの開発者は、利用者の個人データを収集しません。
 
 ## 収集する情報
 
@@ -61,11 +61,11 @@ permalink: /privacy-policy/
 
 ---
 
-# Nawatobi Privacy Policy
+# Nawatob! Privacy Policy
 
 Last updated: October 12, 2026
 
-Nawatobi ("the App") counts your jump rope skips from the motion of your AirPods Pro. The developer of the App does not collect any personal data.
+Nawatob! ("the App") counts your jump rope skips from the motion of your AirPods Pro. The developer of the App does not collect any personal data.
 
 ## Information we collect
 
