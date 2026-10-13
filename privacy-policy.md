@@ -5,9 +5,9 @@ permalink: /privacy-policy/
 
 # Nawatob! プライバシーポリシー
 
-最終更新日: 2026年10月12日
+最終更新日: 2026年10月14日
 
-「Nawatob!」（以下「本アプリ」）は、AirPods Pro の動きから縄跳びの回数を数えるアプリです。本アプリの開発者は、利用者の個人データを収集しません。
+「Nawatob!」（以下「本アプリ」）は、AirPods の動きから縄跳びの回数を数えるアプリです。本アプリの開発者は、利用者の個人データを収集しません。
 
 ## 収集する情報
 
@@ -15,7 +15,7 @@ permalink: /privacy-policy/
 
 ## モーションデータ
 
-ジャンプを数えるために、AirPods Pro の加速度などのモーションデータを使います。モーションデータは端末上で処理し、外部に送信しません。利用者が CSV の書き出しを選んだときだけ、利用者が選んだ共有先に渡されます。
+ジャンプを数えるために、AirPods の加速度などのモーションデータを使います。モーションデータは端末上で処理し、外部に送信しません。利用者が CSV の書き出しを選んだときだけ、利用者が選んだ共有先に渡されます。
 
 ## カメラと写真
 
@@ -63,9 +63,9 @@ permalink: /privacy-policy/
 
 # Nawatob! Privacy Policy
 
-Last updated: October 12, 2026
+Last updated: October 14, 2026
 
-Nawatob! ("the App") counts your jump rope skips from the motion of your AirPods Pro. The developer of the App does not collect any personal data.
+Nawatob! ("the App") counts your jump rope skips from the motion of your AirPods. The developer of the App does not collect any personal data.
 
 ## Information we collect
 
@@ -73,7 +73,7 @@ The App never sends your information to the developer's or any third party's ser
 
 ## Motion data
 
-The App uses motion data such as acceleration from your AirPods Pro to count jumps. Motion data is processed on your device and is never sent anywhere. It leaves your device only when you choose to export a CSV file, and only to the destination you pick.
+The App uses motion data such as acceleration from your AirPods to count jumps. Motion data is processed on your device and is never sent anywhere. It leaves your device only when you choose to export a CSV file, and only to the destination you pick.
 
 ## Camera and Photos
 

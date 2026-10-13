@@ -5,7 +5,7 @@ permalink: /support/
 
 # Nawatob! サポート
 
-AirPods Pro を着けて縄跳びをすると、頭の上下の動きからジャンプの回数を数える iPhone アプリです。
+AirPods を着けて縄跳びをすると、頭の上下の動きからジャンプの回数を数える iPhone アプリです。
 
 ## よくある質問
 
@@ -37,7 +37,7 @@ AirPods Pro を着けて縄跳びをすると、頭の上下の動きからジ�
 
 # Nawatob! Support
 
-Nawatob! counts your jump rope skips from the head movement measured by your AirPods Pro.
+Nawatob! counts your jump rope skips from the head movement measured by your AirPods.
 
 ## FAQ
 

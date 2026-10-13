@@ -77,9 +77,8 @@ img { max-width: 100%; height: auto; display: block; }
   display: block;
   color: var(--accent);
   font-weight: 700;
-  font-size: 14px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 0.01em;
   margin: 0 0 16px;
 }
 
@@ -111,6 +110,8 @@ h1, h2, h3 { text-wrap: balance; }
 .badge img { height: 54px; width: auto; }
 
 .cta-note { color: var(--text-secondary); font-size: 14px; margin: 0; }
+
+.compat { color: var(--text-secondary); font-size: 14px; margin: 20px 0 0; }
 
 .metric {
   font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Roboto Condensed", "Arial Narrow", sans-serif;
