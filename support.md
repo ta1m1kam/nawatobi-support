@@ -1,5 +1,6 @@
 ---
 title: サポート / Support
+permalink: /support/
 ---
 
 # Nawatob! サポート

@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nawatob! — AirPods Pro で縄跳びを自動カウント</title>
+  <meta name="description" content="AirPods Pro を着けて跳ぶだけ。Nawatob! は頭の動きから縄跳びの回数を自動で数え、テンポ・二重跳び・消費カロリー・連続記録も残す iPhone アプリです。">
+  <link rel="canonical" href="https://ta1m1kam.github.io/nawatobi-support/ja/">
+  <link rel="alternate" hreflang="en" href="https://ta1m1kam.github.io/nawatobi-support/">
+  <link rel="alternate" hreflang="ja" href="https://ta1m1kam.github.io/nawatobi-support/ja/">
+  <link rel="alternate" hreflang="x-default" href="https://ta1m1kam.github.io/nawatobi-support/">
+  <meta name="apple-itunes-app" content="app-id=6816676889">
+  <meta name="theme-color" content="#0f1115">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Nawatob!">
+  <meta property="og:title" content="Nawatob! — AirPods Pro で縄跳びを自動カウント">
+  <meta property="og:description" content="AirPods Pro を着けて跳ぶだけ。頭の動きから縄跳びの回数を数えます。">
+  <meta property="og:url" content="https://ta1m1kam.github.io/nawatobi-support/ja/">
+  <meta property="og:image" content="https://ta1m1kam.github.io/nawatobi-support/assets/og-ja.png">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon.png">
+  <link rel="apple-touch-icon" href="../assets/icon-180.png">
+  <link rel="stylesheet" href="../assets/site.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "Nawatob!",
+    "description": "AirPods Pro で縄跳びを自動カウント。頭の動きからジャンプの回数を数えます。",
+    "operatingSystem": "iOS 26.0 以降",
+    "applicationCategory": "HealthApplication",
+    "inLanguage": ["ja", "en"],
+    "offers": { "@type": "Offer", "price": "500", "priceCurrency": "JPY", "availability": "https://schema.org/InStock" },
+    "installUrl": "https://apps.apple.com/jp/app/id6816676889",
+    "image": "https://ta1m1kam.github.io/nawatobi-support/assets/icon-512.png",
+    "author": { "@type": "Person", "name": "Taiga Mikami" }
+  }
+  </script>
+  <script src="../assets/site.js" defer></script>
+</head>
+<body>
+  <header class="wrap top">
+    <a class="brand" href="./"><img src="../assets/icon-180.png" alt="" width="36" height="36"><span class="wordmark">NAWATOB!</span></a>
+    <a class="lang" href="../" hreflang="en" lang="en">English</a>
+  </header>
+
+  <main>
+    <div class="wrap hero">
+      <div>
+        <h1><span class="eyebrow">AirPods Pro で縄跳びを自動カウント</span> <span class="phrase">AirPods を着けて、</span><em class="phrase">跳ぶだけ。</em></h1>
+        <p class="lead">Nawatob! は頭の上下の動きから、縄跳びの回数を 1 回ずつ数えます。iPhone を手に持つ必要も、腕に巻く必要もありません。テンポや消費カロリー、毎日の連続記録も自動で残ります。</p>
+        <div class="cta">
+          <a class="badge" href="https://apps.apple.com/jp/app/id6816676889"><img src="../assets/app-store-badge-ja.svg" alt="App Store からダウンロード" width="147" height="54"></a>
+          <p class="cta-note">買い切り・サブスクなし・広告なし</p>
+        </div>
+      </div>
+      <div class="stage-card" role="img" aria-label="Nawatob! の計測画面。アバターが縄跳びをし、回数・テンポ・AirPods の加速度の波形がリアルタイムに動く">
+        <div class="stage-status"><span>計測中</span><span>AirPods Pro</span></div>
+        <svg class="stage" viewBox="0 0 350 220" width="350" height="220" aria-hidden="true"></svg>
+        <div class="stage-count"><b class="metric" data-count>71</b><span>回</span></div>
+        <dl class="stage-stats">
+          <div><dt>時間</dt><dd class="metric" data-time>0:36</dd></div>
+          <div><dt>テンポ</dt><dd class="metric">133</dd></div>
+          <div><dt>二重跳び</dt><dd class="metric" data-double-unders>0</dd></div>
+        </dl>
+        <div class="wave-label"><span>縦方向の加速度</span><span>しきい値 0.6G</span></div>
+        <svg class="wave" viewBox="0 0 320 80" width="320" height="80" aria-hidden="true"></svg>
+      </div>
+    </div>
+
+    <section>
+      <div class="wrap">
+        <h2>3 ステップで、すぐ始められる</h2>
+        <p class="section-lead">数えるのは、AirPods Pro にもともと入っているモーションセンサーです。</p>
+        <ol class="steps">
+          <li><h3>AirPods を着ける</h3><p>AirPods Pro、AirPods Max、AirPods（第3世代以降）を iPhone につなぎます。</p></li>
+          <li><h3>スタートを押す</h3><p>「3, 2, 1, GO!」のカウントダウンで開始。iPhone はどこに置いても大丈夫です。</p></li>
+          <li><h3>跳ぶ</h3><p>頭の動きから 1 回ずつカウント。回数は AirPods から読み上げます。</p></li>
+        </ol>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <h2>縄跳びに必要なものを、ひとつに</h2>
+        <p class="section-lead">5 分だけの縄跳びからインターバルトレーニングまで。数えるのは Nawatob! に任せて、跳ぶことに集中できます。</p>
+        <div class="features">
+          <article class="feature">
+            <h3>自動カウント</h3>
+            <p>手ぶらで正確に。</p>
+            <ul>
+              <li>二重跳びと引っかかりを検出</li>
+              <li>跳び方に合わせて検出を自動調整</li>
+              <li>跳んだ高さに合わせて跳ねるアバター</li>
+            </ul>
+          </article>
+          <article class="feature">
+            <h3>トレーニングモード</h3>
+            <p>目標を決めて、すぐスタート。</p>
+            <ul>
+              <li>フリー・タイムチャレンジ・回数チャレンジ・インターバル</li>
+              <li>回数・経過時間・インターバルの合図を AirPods で読み上げ</li>
+              <li>跳びながらタイムラプスを撮影</li>
+            </ul>
+          </article>
+          <article class="feature">
+            <h3>記録と連続記録</h3>
+            <p>積み重ねが目に見える。</p>
+            <ul>
+              <li>回数・時間・テンポ・最長連続・引っかかり</li>
+              <li>体重から消費カロリーを推定</li>
+              <li>週・月・年のグラフと、跳んだ日のカレンダー</li>
+              <li>結果を画像でシェア</li>
+            </ul>
+          </article>
+          <article class="feature">
+            <h3>Apple のデバイスと連携</h3>
+            <p>毎日の習慣に溶け込む。</p>
+            <ul>
+              <li>ワークアウトをヘルスケアに保存</li>
+              <li>AirPods Pro 3 で心拍数を表示</li>
+              <li>ロック画面と Dynamic Island のライブアクティビティ</li>
+              <li>ウィジェット・リマインド通知・iCloud 同期</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <h2>画面を見る</h2>
+        <div class="gallery">
+          <figure><img src="../assets/ja/home.webp" alt="今日の回数・目標・連続日数が並ぶホーム画面" width="640" height="1391" loading="lazy"><figcaption>今日の記録をひと目で</figcaption></figure>
+          <figure><img src="../assets/ja/tracking.webp" alt="ジャンプを数えている計測画面" width="640" height="1391" loading="lazy"><figcaption>リアルタイムでカウント</figcaption></figure>
+          <figure><img src="../assets/ja/result.webp" alt="回数・消費カロリー・テンポ・最長連続の結果画面" width="640" height="1391" loading="lazy"><figcaption>セットごとの結果</figcaption></figure>
+          <figure><img src="../assets/ja/history.webp" alt="週のグラフと跳んだ日のカレンダー" width="640" height="1391" loading="lazy"><figcaption>グラフとカレンダー</figcaption></figure>
+          <figure><img src="../assets/ja/sets.webp" alt="これまでのセットの一覧" width="640" height="1391" loading="lazy"><figcaption>すべての履歴</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="privacy">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3 8.5-7 10-4-1.5-7-5.5-7-10V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+          <div>
+            <h2>記録はあなたの手元だけに</h2>
+            <p>記録は端末と、あなた自身の iCloud にだけ保存されます。アカウント登録なし、広告なし、アクセス解析なし。開発者はデータを一切収集しません。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="faq">
+      <div class="wrap">
+        <h2>よくある質問</h2>
+        <details>
+          <summary>どの AirPods で使えますか？</summary>
+          <p>ヘッドフォンのモーションに対応した AirPods（AirPods Pro、AirPods Max、AirPods（第3世代以降）など）で使えます。心拍数の表示は AirPods Pro 3 が必要です。</p>
+        </details>
+        <details>
+          <summary>動作環境を教えてください</summary>
+          <p>iOS 26.0 以降の iPhone と、対応する AirPods が必要です。</p>
+        </details>
+        <details>
+          <summary>サブスクリプションはありますか？</summary>
+          <p>ありません。Nawatob! は買い切りで、サブスクリプション・アプリ内課金・広告はありません。</p>
+        </details>
+        <details>
+          <summary>回数が実際とずれます</summary>
+          <p>設定の「跳び方に合わせて自動で調整」で、普通に 10 回・二重跳びを 5 回跳ぶと、跳び方に合わせて検出を調整します。ほかの質問は<a href="../support/">サポートページ</a>をご覧ください。</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="closing">
+      <div class="wrap">
+        <img class="icon" src="../assets/icon-512.png" alt="" width="96" height="96" loading="lazy">
+        <h2>縄を持ったら、数えるのは AirPods に。</h2>
+        <p class="section-lead" style="margin-inline:auto">App Store で配信中（日本語・英語）。</p>
+        <div class="cta">
+          <a class="badge" href="https://apps.apple.com/jp/app/id6816676889"><img src="../assets/app-store-badge-ja.svg" alt="App Store からダウンロード" width="147" height="54" loading="lazy"></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <nav>
+        <a href="../support/">サポート</a>
+        <a href="../privacy-policy/">プライバシーポリシー</a>
+        <a href="mailto:taiga.mikami.work@gmail.com">お問い合わせ</a>
+        <a href="../" hreflang="en" lang="en">English</a>
+      </nav>
+      <p>© 2026 Taiga Mikami</p>
+      <p>Apple、AirPods、AirPods Pro、AirPods Max、iPhone、App Store は、米国およびその他の国で登録された Apple Inc. の商標です。</p>
+    </div>
+  </footer>
+</body>
+</html>
